@@ -1,0 +1,5740 @@
+{
+  "version": 1,
+  "kitName": "MyTestKit",
+  "files": [
+    {
+      "path": "Q:/Music Stuff/Reaper Sessions/Premier Drums Virtual Instrument/06-Hi-Hat__SM7B-260818_2310-glued-04.wav",
+      "position": "Hi_Hat",
+      "micName": "SM7B",
+      "group": "Group 1"
+    },
+    {
+      "path": "Q:/Music Stuff/Reaper Sessions/Premier Drums Virtual Instrument/07-Overheads__C414-260818_2310-glued-06.wav",
+      "position": "Overhead_Stereo",
+      "micName": "C414",
+      "group": "Group 1"
+    }
+  ],
+  "drums": [
+    {
+      "slot": "Hi_Hat",
+      "name": "",
+      "articulations": [
+        {
+          "tags": [
+            "A-Edge",
+            "O-Tight"
+          ],
+          "display": "Edge Tight",
+          "group": "Group 1",
+          "refFile": 0,
+          "selStart": 248427022,
+          "selEnd": 257925278,
+          "threshDb": 8.0,
+          "minGapMs": 200.0,
+          "boundaries": [
+            -49.410439970098679,
+            -39.483694675947362,
+            -33.177912098239787,
+            -28.944635999868094,
+            -25.921999374088166,
+            -21.772325088677654
+          ],
+          "stripWarp": "linear",
+          "minPerRegion": 3,
+          "detectHf": null,
+          "boundsMode": "manual",
+          "slices": [
+            {
+              "start": 248456191,
+              "db": -62.443109101905435,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 80896
+            },
+            {
+              "start": 248617727,
+              "db": -59.147593074823959,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 248766461,
+              "db": -59.587509926725915,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 84224
+            },
+            {
+              "start": 248907647,
+              "db": -56.968411843373026,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 249063166,
+              "db": -55.204156021926131,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 85312
+            },
+            {
+              "start": 249205247,
+              "db": -60.16846664220332,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 72448
+            },
+            {
+              "start": 249357281,
+              "db": -63.586570754300723,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 82688
+            },
+            {
+              "start": 249499704,
+              "db": -58.963553331711125,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 76096
+            },
+            {
+              "start": 249671789,
+              "db": -52.872009039829607,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 82432
+            },
+            {
+              "start": 249822975,
+              "db": -46.447138777190858,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 92224
+            },
+            {
+              "start": 249996858,
+              "db": -45.063639637471873,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 92224
+            },
+            {
+              "start": 250160110,
+              "db": -42.797249233370003,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 250317307,
+              "db": -42.222158959448265,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 92416
+            },
+            {
+              "start": 250472434,
+              "db": -40.496557066975491,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 76608
+            },
+            {
+              "start": 250622015,
+              "db": -42.83622705364639,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 250780606,
+              "db": -42.916301502847539,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 250920127,
+              "db": -43.543399726928953,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 91584
+            },
+            {
+              "start": 251060262,
+              "db": -38.248737383155159,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 82048
+            },
+            {
+              "start": 251205374,
+              "db": -39.104843564375258,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 83776
+            },
+            {
+              "start": 251350480,
+              "db": -36.485477797027613,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 82496
+            },
+            {
+              "start": 251511395,
+              "db": -34.649308285812303,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 90048
+            },
+            {
+              "start": 251664575,
+              "db": -35.319228354402654,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 99968
+            },
+            {
+              "start": 251813306,
+              "db": -34.440633320616499,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 251966582,
+              "db": -35.863630582591568,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 85504
+            },
+            {
+              "start": 252131248,
+              "db": -38.236881087831414,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 89728
+            },
+            {
+              "start": 252292094,
+              "db": -36.448601358809839,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 89664
+            },
+            {
+              "start": 252447154,
+              "db": -32.142168287758402,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 90176
+            },
+            {
+              "start": 252595519,
+              "db": -36.833363929673546,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 89024
+            },
+            {
+              "start": 252735349,
+              "db": -34.213655908721165,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 96512
+            },
+            {
+              "start": 252871705,
+              "db": -29.631947561519283,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 91648
+            },
+            {
+              "start": 253031717,
+              "db": -29.063904196984915,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 105344
+            },
+            {
+              "start": 253188136,
+              "db": -30.580033246858843,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 90816
+            },
+            {
+              "start": 253337854,
+              "db": -28.026824237510425,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 95680
+            },
+            {
+              "start": 253479485,
+              "db": -28.718362219172555,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 90560
+            },
+            {
+              "start": 253614023,
+              "db": -28.484892890447185,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 84032
+            },
+            {
+              "start": 253756528,
+              "db": -30.7496248258953,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 253890408,
+              "db": -28.825367802751273,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 85952
+            },
+            {
+              "start": 254027057,
+              "db": -28.180072910439307,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 94656
+            },
+            {
+              "start": 254150271,
+              "db": -29.224515551686025,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 84032
+            },
+            {
+              "start": 254280634,
+              "db": -29.368319661422202,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 104512
+            },
+            {
+              "start": 254417720,
+              "db": -31.101624389918996,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 89728
+            },
+            {
+              "start": 254529324,
+              "db": -24.679034648581748,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 96192
+            },
+            {
+              "start": 254653348,
+              "db": -27.117851797593072,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 95936
+            },
+            {
+              "start": 254803230,
+              "db": -25.504850376267484,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 100928
+            },
+            {
+              "start": 254953522,
+              "db": -24.877313718211148,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 98304
+            },
+            {
+              "start": 255087866,
+              "db": -27.942158043673771,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 101248
+            },
+            {
+              "start": 255213088,
+              "db": -25.404212049252077,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 97792
+            },
+            {
+              "start": 255347982,
+              "db": -28.418016752206764,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 95808
+            },
+            {
+              "start": 255462621,
+              "db": -25.156485167769269,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 88832
+            },
+            {
+              "start": 255583077,
+              "db": -22.926810035396102,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 114944
+            },
+            {
+              "start": 255747636,
+              "db": -23.587773021647894,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 107648
+            },
+            {
+              "start": 255886438,
+              "db": -22.387115546094797,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 102976
+            },
+            {
+              "start": 256029670,
+              "db": -22.681696297294405,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 100352
+            },
+            {
+              "start": 256178062,
+              "db": -23.313817984676412,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 97408
+            },
+            {
+              "start": 256311795,
+              "db": -22.181888347033745,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 96256
+            },
+            {
+              "start": 256446416,
+              "db": -21.27280074053628,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 105920
+            },
+            {
+              "start": 256587134,
+              "db": -20.158984060634133,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 99072
+            },
+            {
+              "start": 256725641,
+              "db": -21.970841945580005,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 99072
+            },
+            {
+              "start": 256858756,
+              "db": -21.164884171272913,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 88704
+            },
+            {
+              "start": 256995266,
+              "db": -21.281091719605261,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 96256
+            },
+            {
+              "start": 257137481,
+              "db": -22.248423530733433,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 100224
+            },
+            {
+              "start": 257285271,
+              "db": -21.81132456139197,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 92416
+            },
+            {
+              "start": 257431224,
+              "db": -20.857258399595509,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 104320
+            },
+            {
+              "start": 257579177,
+              "db": -21.733325615963338,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 103104
+            },
+            {
+              "start": 257732815,
+              "db": -21.02922595149753,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 103488
+            }
+          ]
+        },
+        {
+          "tags": [
+            "O-Tight"
+          ],
+          "display": "Tight",
+          "group": "Group 1",
+          "refFile": 0,
+          "selStart": 297789026,
+          "selEnd": 299563629,
+          "threshDb": 8.0,
+          "minGapMs": 200.0,
+          "boundaries": [
+            -49.447539644014661,
+            -41.344993496792341,
+            -36.979449262875697,
+            -34.42227661179686,
+            -32.680529998003649
+          ],
+          "stripWarp": "linear",
+          "minPerRegion": 3,
+          "detectHf": null,
+          "boundsMode": "manual",
+          "slices": [
+            {
+              "start": 257999592,
+              "db": -59.41014409026306,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 83008
+            },
+            {
+              "start": 258141418,
+              "db": -58.328403295127877,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 97472
+            },
+            {
+              "start": 258313110,
+              "db": -58.868817609268653,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 81856
+            },
+            {
+              "start": 258471402,
+              "db": -55.899683004398412,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 105344
+            },
+            {
+              "start": 258658803,
+              "db": -56.428700521305217,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 258827623,
+              "db": -58.085193134677411,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 97344
+            },
+            {
+              "start": 259053092,
+              "db": -55.90844892691176,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 102400
+            },
+            {
+              "start": 259236961,
+              "db": -53.160795251769464,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 98944
+            },
+            {
+              "start": 259390250,
+              "db": -52.132028834531503,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 259570539,
+              "db": -53.614150255033415,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 91904
+            },
+            {
+              "start": 259713531,
+              "db": -52.406147502928498,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 90688
+            },
+            {
+              "start": 259862480,
+              "db": -46.763050453497819,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 259999328,
+              "db": -43.837423969477584,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 260147689,
+              "db": -44.887044090379376,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 98560
+            },
+            {
+              "start": 260288683,
+              "db": -45.025502125631867,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 94784
+            },
+            {
+              "start": 260440085,
+              "db": -44.191487864301457,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 96384
+            },
+            {
+              "start": 260592859,
+              "db": -44.682953975222659,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 74112
+            },
+            {
+              "start": 260728105,
+              "db": -43.590911733750715,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 76864
+            },
+            {
+              "start": 260870635,
+              "db": -45.146682953034308,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 80576
+            },
+            {
+              "start": 261005474,
+              "db": -43.359130155522109,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 78080
+            },
+            {
+              "start": 261133483,
+              "db": -42.913683073469485,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 81664
+            },
+            {
+              "start": 261241875,
+              "db": -39.77630392011519,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 261367516,
+              "db": -38.139384992745995,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 68672
+            },
+            {
+              "start": 261490768,
+              "db": -39.142445265873896,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 49216
+            },
+            {
+              "start": 261606949,
+              "db": -37.632628410574668,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 43968
+            },
+            {
+              "start": 261725409,
+              "db": -36.57802800221689,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 55936
+            },
+            {
+              "start": 261839979,
+              "db": -37.421656543413249,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 64704
+            },
+            {
+              "start": 261975861,
+              "db": -36.821321446747859,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 48320
+            },
+            {
+              "start": 262141417,
+              "db": -37.720110431559128,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 262277708,
+              "db": -36.03992124208245,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 70272
+            },
+            {
+              "start": 262394607,
+              "db": -35.242970390163059,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 55104
+            },
+            {
+              "start": 262527467,
+              "db": -34.982830719192947,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 71872
+            },
+            {
+              "start": 262666982,
+              "db": -33.729490576382084,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 72896
+            },
+            {
+              "start": 262802510,
+              "db": -29.621320783176508,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 69248
+            },
+            {
+              "start": 262935202,
+              "db": -33.849369379995345,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 81664
+            },
+            {
+              "start": 263075008,
+              "db": -29.350337362326179,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 75776
+            },
+            {
+              "start": 263203690,
+              "db": -34.233837331559187,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 79680
+            },
+            {
+              "start": 263340738,
+              "db": -32.575069561794209,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 69056
+            },
+            {
+              "start": 263478251,
+              "db": -33.978515015402721,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 127552
+            },
+            {
+              "start": 263620725,
+              "db": -34.951368312631907,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 77504
+            },
+            {
+              "start": 263747552,
+              "db": -34.02644074594722,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 76864
+            },
+            {
+              "start": 263855142,
+              "db": -31.923430307794895,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 68288
+            },
+            {
+              "start": 263994056,
+              "db": -33.795455297367141,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 78592
+            },
+            {
+              "start": 264127803,
+              "db": -33.193531656360221,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 76480
+            },
+            {
+              "start": 264254523,
+              "db": -31.838981057063101,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 82368
+            },
+            {
+              "start": 264380624,
+              "db": -32.87860449723992,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 70848
+            },
+            {
+              "start": 264506904,
+              "db": -32.457519957475341,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 88000
+            },
+            {
+              "start": 264625933,
+              "db": -31.882617312456354,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 78656
+            },
+            {
+              "start": 264752222,
+              "db": -29.379965463521724,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 90112
+            },
+            {
+              "start": 264866665,
+              "db": -35.213382444135533,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 79104
+            },
+            {
+              "start": 264983851,
+              "db": -31.956717679990593,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 77760
+            }
+          ]
+        },
+        {
+          "tags": [
+            "A-Edge",
+            "O-Closed"
+          ],
+          "display": "Edge Closed",
+          "group": "Group 1",
+          "refFile": 0,
+          "selStart": 265427092,
+          "selEnd": 272127097,
+          "threshDb": 8.0,
+          "minGapMs": 200.0,
+          "boundaries": [
+            -42.577175068036269,
+            -36.071981970432738,
+            -30.092558824999855,
+            -27.333247704686897,
+            -23.812299287656565,
+            -20.046683347276389
+          ],
+          "stripWarp": "linear",
+          "minPerRegion": 3,
+          "detectHf": null,
+          "boundsMode": "manual",
+          "slices": [
+            {
+              "start": 265443175,
+              "db": -70.288784350473136,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 7872
+            },
+            {
+              "start": 265451971,
+              "db": -52.01814770099795,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 265673983,
+              "db": -45.610400971281493,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 53632
+            },
+            {
+              "start": 265813637,
+              "db": -49.608527388968149,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 50176
+            },
+            {
+              "start": 265976933,
+              "db": -46.522731194943468,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 266138693,
+              "db": -41.48152123299289,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 266287487,
+              "db": -41.680244630082584,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 58688
+            },
+            {
+              "start": 266439749,
+              "db": -37.772008731749615,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 69056
+            },
+            {
+              "start": 266600964,
+              "db": -37.244339891087556,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 58624
+            },
+            {
+              "start": 266733246,
+              "db": -40.232038088865558,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 52288
+            },
+            {
+              "start": 266863722,
+              "db": -43.6370418570569,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 69568
+            },
+            {
+              "start": 266989189,
+              "db": -45.142998569690803,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 65664
+            },
+            {
+              "start": 267102707,
+              "db": -34.89962404977792,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 267234949,
+              "db": -34.6381944180498,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 72064
+            },
+            {
+              "start": 267383555,
+              "db": -33.44140654901463,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 73728
+            },
+            {
+              "start": 267517955,
+              "db": -37.319884432465585,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 70528
+            },
+            {
+              "start": 267663877,
+              "db": -37.796291549337454,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 71872
+            },
+            {
+              "start": 267822614,
+              "db": -38.198299712321905,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 267983720,
+              "db": -33.18047693632311,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 53632
+            },
+            {
+              "start": 268112341,
+              "db": -31.033976879448886,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 77888
+            },
+            {
+              "start": 268258967,
+              "db": -32.837771705421048,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 73600
+            },
+            {
+              "start": 268401476,
+              "db": -31.711031988503855,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 62848
+            },
+            {
+              "start": 268516613,
+              "db": -28.139518953761538,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 88384
+            },
+            {
+              "start": 268641703,
+              "db": -26.549281799988439,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 82816
+            },
+            {
+              "start": 268760192,
+              "db": -27.095960651345841,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 61824
+            },
+            {
+              "start": 268877681,
+              "db": -29.151140770550828,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 86592
+            },
+            {
+              "start": 269003077,
+              "db": -25.990717441404598,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 86400
+            },
+            {
+              "start": 269127799,
+              "db": -26.348782899502091,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 269253434,
+              "db": -28.11815367766912,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 83136
+            },
+            {
+              "start": 269381992,
+              "db": -27.570534758027957,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 88000
+            },
+            {
+              "start": 269509308,
+              "db": -26.072576791767354,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 84416
+            },
+            {
+              "start": 269647300,
+              "db": -28.947586082858461,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 42688
+            },
+            {
+              "start": 269786245,
+              "db": -25.869204261769156,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 78848
+            },
+            {
+              "start": 269916933,
+              "db": -28.077326352016762,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 78336
+            },
+            {
+              "start": 270036868,
+              "db": -25.591733137731623,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 89152
+            },
+            {
+              "start": 270159728,
+              "db": -21.512785168689184,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 60288
+            },
+            {
+              "start": 270284951,
+              "db": -22.032865437581503,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 93952
+            },
+            {
+              "start": 270420976,
+              "db": -21.980333345908711,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 96960
+            },
+            {
+              "start": 270558051,
+              "db": -21.094772691597015,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 94016
+            },
+            {
+              "start": 270692253,
+              "db": -21.240388447151535,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 90688
+            },
+            {
+              "start": 270822425,
+              "db": -20.236664048146235,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 98432
+            },
+            {
+              "start": 270958243,
+              "db": -19.873382472470485,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 99136
+            },
+            {
+              "start": 271086700,
+              "db": -22.010782070566833,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 91584
+            },
+            {
+              "start": 271224962,
+              "db": -20.773586597612574,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 101376
+            },
+            {
+              "start": 271358388,
+              "db": -18.013727156820924,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 91584
+            },
+            {
+              "start": 271481924,
+              "db": -18.306090776705148,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 102208
+            },
+            {
+              "start": 271629150,
+              "db": -19.647422419165313,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 88448
+            },
+            {
+              "start": 271761875,
+              "db": -19.785920562072899,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 101248
+            },
+            {
+              "start": 271896017,
+              "db": -20.347728892598447,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 66496
+            },
+            {
+              "start": 272024624,
+              "db": -18.656570441758447,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            }
+          ]
+        },
+        {
+          "tags": [
+            "O-Closed"
+          ],
+          "display": "Closed",
+          "group": "Group 1",
+          "refFile": 0,
+          "selStart": 272277068,
+          "selEnd": 279486659,
+          "threshDb": 8.0,
+          "minGapMs": 200.0,
+          "boundaries": [
+            -51.181238376437669,
+            -39.382154102156058,
+            -34.875587397000714,
+            -31.495214647122513,
+            -29.95461426803832
+          ],
+          "stripWarp": "linear",
+          "minPerRegion": 3,
+          "detectHf": null,
+          "boundsMode": "manual",
+          "slices": [
+            {
+              "start": 272291129,
+              "db": -61.219314543391178,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 101824
+            },
+            {
+              "start": 272433910,
+              "db": -57.338996597916122,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 272592691,
+              "db": -59.256323450131163,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 49408
+            },
+            {
+              "start": 272738427,
+              "db": -61.446380129582948,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 49152
+            },
+            {
+              "start": 272896380,
+              "db": -60.60485668832478,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 53696
+            },
+            {
+              "start": 273054323,
+              "db": -58.659565871985812,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 51712
+            },
+            {
+              "start": 273176976,
+              "db": -59.237893580419723,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 55232
+            },
+            {
+              "start": 273319931,
+              "db": -54.809168029985322,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 273457518,
+              "db": -55.083616426998354,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 51584
+            },
+            {
+              "start": 273585021,
+              "db": -54.800229901508757,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 273692259,
+              "db": -47.562246851366581,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 51392
+            },
+            {
+              "start": 273825788,
+              "db": -46.684641590620551,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 52096
+            },
+            {
+              "start": 273953014,
+              "db": -45.650425006015269,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 49152
+            },
+            {
+              "start": 274067114,
+              "db": -45.311250819385705,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 56384
+            },
+            {
+              "start": 274189437,
+              "db": -44.450266514890295,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 49856
+            },
+            {
+              "start": 274307685,
+              "db": -43.820959824329179,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 59584
+            },
+            {
+              "start": 274422008,
+              "db": -42.103833409345619,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 52992
+            },
+            {
+              "start": 274538365,
+              "db": -42.468380334643641,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 57984
+            },
+            {
+              "start": 274681401,
+              "db": -41.042646465593918,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 54464
+            },
+            {
+              "start": 274815933,
+              "db": -44.699268085936758,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 51328
+            },
+            {
+              "start": 274919163,
+              "db": -37.22146857573712,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 66112
+            },
+            {
+              "start": 275047223,
+              "db": -37.477292565481889,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 53504
+            },
+            {
+              "start": 275170554,
+              "db": -36.48564732737502,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 70144
+            },
+            {
+              "start": 275295425,
+              "db": -36.736848128791181,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 275432637,
+              "db": -37.144908004174837,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 63424
+            },
+            {
+              "start": 275567802,
+              "db": -35.535046875952077,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 56768
+            },
+            {
+              "start": 275704637,
+              "db": -37.095109119347512,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 74048
+            },
+            {
+              "start": 275833885,
+              "db": -36.575302609489384,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 61312
+            },
+            {
+              "start": 275952695,
+              "db": -37.721661738718197,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 59072
+            },
+            {
+              "start": 276073653,
+              "db": -37.111272072144011,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 65472
+            },
+            {
+              "start": 276179924,
+              "db": -32.924818234120089,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 72384
+            },
+            {
+              "start": 276300910,
+              "db": -33.225905706721164,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 52544
+            },
+            {
+              "start": 276433778,
+              "db": -34.020489289330222,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 48064
+            },
+            {
+              "start": 276563053,
+              "db": -32.192419242627984,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 75776
+            },
+            {
+              "start": 276687815,
+              "db": -32.513536753791804,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 72000
+            },
+            {
+              "start": 276802862,
+              "db": -34.212280429840767,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 44672
+            },
+            {
+              "start": 276922610,
+              "db": -33.955930004279288,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 75008
+            },
+            {
+              "start": 277055672,
+              "db": -33.037801998779592,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 61248
+            },
+            {
+              "start": 277186941,
+              "db": -31.283063983245242,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 83200
+            },
+            {
+              "start": 277319834,
+              "db": -31.9868416979287,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 41536
+            },
+            {
+              "start": 277438447,
+              "db": -29.773340559386412,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 69952
+            },
+            {
+              "start": 277552539,
+              "db": -29.255857765003835,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 70912
+            },
+            {
+              "start": 277664186,
+              "db": -30.108065865804665,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 46016
+            },
+            {
+              "start": 277776556,
+              "db": -30.335153057572949,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 84480
+            },
+            {
+              "start": 277901370,
+              "db": -25.630895364258524,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 94528
+            },
+            {
+              "start": 278014516,
+              "db": -33.761715260246,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 48576
+            },
+            {
+              "start": 278125692,
+              "db": -29.320278294744739,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 85824
+            },
+            {
+              "start": 278244154,
+              "db": -30.154649113252475,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 80320
+            },
+            {
+              "start": 278368381,
+              "db": -31.24784416485603,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 69312
+            },
+            {
+              "start": 278501936,
+              "db": -32.005655930516347,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 81216
+            },
+            {
+              "start": 278616189,
+              "db": -33.519760970539288,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 69504
+            },
+            {
+              "start": 278727117,
+              "db": -27.493863505625711,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 91968
+            },
+            {
+              "start": 278852384,
+              "db": -30.121721142075767,
+              "ignored": true,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 69056
+            },
+            {
+              "start": 278960380,
+              "db": -31.102845417773949,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 68416
+            },
+            {
+              "start": 279066173,
+              "db": -30.716289660254546,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 65280
+            },
+            {
+              "start": 279179428,
+              "db": -31.28833442312844,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 78016
+            },
+            {
+              "start": 279295123,
+              "db": -30.879846968218065,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 279433127,
+              "db": -94.477360397458412,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 14336
+            }
+          ]
+        },
+        {
+          "tags": [
+            "A-Pedal"
+          ],
+          "display": "Pedal",
+          "group": "Group 1",
+          "refFile": 0,
+          "selStart": 279623584,
+          "selEnd": 285169157,
+          "threshDb": 8.0,
+          "minGapMs": 200.0,
+          "boundaries": [
+            -47.231384671031343,
+            -42.919403100351261,
+            -36.014315527348501
+          ],
+          "stripWarp": "linear",
+          "minPerRegion": 6,
+          "detectHf": null,
+          "boundsMode": "manual",
+          "slices": [
+            {
+              "start": 279666768,
+              "db": -48.685179097615752,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 279816271,
+              "db": -49.400032393210786,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 279967052,
+              "db": -50.60874146177008,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 69376
+            },
+            {
+              "start": 280098832,
+              "db": -94.674949321852552,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 13632
+            },
+            {
+              "start": 280138534,
+              "db": -53.555220851006418,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 72512
+            },
+            {
+              "start": 280264142,
+              "db": -90.258852460423896,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 280306456,
+              "db": -52.784057345512856,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 76416
+            },
+            {
+              "start": 280439674,
+              "db": -86.158057661103356,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 280467471,
+              "db": -53.168105541008529,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 63744
+            },
+            {
+              "start": 280598461,
+              "db": -90.671699548545917,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 17408
+            },
+            {
+              "start": 280639288,
+              "db": -49.427481448370557,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 280778224,
+              "db": -91.079345314650368,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 9728
+            },
+            {
+              "start": 280812824,
+              "db": -51.995112696858413,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 74752
+            },
+            {
+              "start": 280919981,
+              "db": -92.439859041562741,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 17600
+            },
+            {
+              "start": 280970361,
+              "db": -48.432317886603336,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 57216
+            },
+            {
+              "start": 281110280,
+              "db": -87.348989643530928,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 11968
+            },
+            {
+              "start": 281138572,
+              "db": -51.157905102245522,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 281244685,
+              "db": -86.069552147682259,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 9472
+            },
+            {
+              "start": 281281935,
+              "db": -45.986545995742425,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 281432847,
+              "db": -46.03045145545935,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 281580107,
+              "db": -45.765834575652555,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 281718255,
+              "db": -45.001488924922469,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 281851022,
+              "db": -43.835725955947915,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 281996670,
+              "db": -43.87643343386182,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 282104849,
+              "db": -94.796798992612707,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 18240
+            },
+            {
+              "start": 282141653,
+              "db": -40.840054415632196,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 282297553,
+              "db": -41.44773193462445,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 72960
+            },
+            {
+              "start": 282394133,
+              "db": -89.99352310762491,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 53568
+            },
+            {
+              "start": 282455964,
+              "db": -40.497352498477937,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 69824
+            },
+            {
+              "start": 282563216,
+              "db": -96.308615602888651,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 11392
+            },
+            {
+              "start": 282586024,
+              "db": -94.4646898684598,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 12480
+            },
+            {
+              "start": 282622155,
+              "db": -42.003080244754607,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 282755609,
+              "db": -90.913642740186859,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 282793238,
+              "db": -39.244741407196571,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 282914623,
+              "db": -79.52576608350634,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 10048
+            },
+            {
+              "start": 282946193,
+              "db": -39.086945727184947,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 69952
+            },
+            {
+              "start": 283054028,
+              "db": -93.863185374482455,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 283065019,
+              "db": -80.894002027581649,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 18752
+            },
+            {
+              "start": 283098173,
+              "db": -39.350283134918762,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 87040
+            },
+            {
+              "start": 283227217,
+              "db": -91.204374148270716,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 283240592,
+              "db": -88.040420851398409,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 283273798,
+              "db": -37.449145098064356,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 283425904,
+              "db": -33.906352028508223,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 40832
+            },
+            {
+              "start": 283511436,
+              "db": -75.356561415580614,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 283553553,
+              "db": -80.713710784903029,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 11584
+            },
+            {
+              "start": 283597181,
+              "db": -39.28124260766355,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 283711101,
+              "db": -81.184443773221489,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 283762267,
+              "db": -45.466168324860028,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 283879056,
+              "db": -93.934101011095692,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 32320
+            },
+            {
+              "start": 283923977,
+              "db": -32.066422408147616,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 284068560,
+              "db": -81.998218291123379,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 12032
+            },
+            {
+              "start": 284126743,
+              "db": -32.211549034550643,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 284249667,
+              "db": -89.049069250740743,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 284274049,
+              "db": -81.09534826484122,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 284313166,
+              "db": -30.517322869042985,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 120064
+            },
+            {
+              "start": 284455050,
+              "db": -86.622876976757851,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 284470178,
+              "db": -83.124959825896127,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 14912
+            },
+            {
+              "start": 284515150,
+              "db": -33.28184752988404,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 284647620,
+              "db": -80.352712670602585,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 19904
+            },
+            {
+              "start": 284724231,
+              "db": -34.579485956632638,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 284861324,
+              "db": -91.598186367686225,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 284929207,
+              "db": -32.759295273412306,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 285140459,
+              "db": -82.197719821529404,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            }
+          ]
+        },
+        {
+          "tags": [
+            "A-Pedal_Splash"
+          ],
+          "display": "Pedal Splash",
+          "group": "Group 1",
+          "refFile": 0,
+          "selStart": 285197729,
+          "selEnd": 289445478,
+          "threshDb": 8.0,
+          "minGapMs": 200.0,
+          "boundaries": [
+            -35.980027952524495
+          ],
+          "stripWarp": "linear",
+          "minPerRegion": 3,
+          "detectHf": true,
+          "boundsMode": "manual",
+          "slices": [
+            {
+              "start": 285203900,
+              "db": -81.184324735094563,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 9984
+            },
+            {
+              "start": 285238642,
+              "db": -39.181793091490725,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 126208
+            },
+            {
+              "start": 285420025,
+              "db": -43.734386386556324,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 395776
+            },
+            {
+              "start": 285879916,
+              "db": -40.808178008957654,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 265408
+            },
+            {
+              "start": 286242243,
+              "db": -35.535061950870876,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 472192
+            },
+            {
+              "start": 286794350,
+              "db": -31.863273009881606,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 394112
+            },
+            {
+              "start": 287259527,
+              "db": -86.852963164752097,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 17664
+            },
+            {
+              "start": 287289130,
+              "db": -30.959333588633481,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 440000
+            },
+            {
+              "start": 287822088,
+              "db": -33.771404717991423,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 288327684,
+              "db": -33.726718365976048,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 253824
+            },
+            {
+              "start": 288686697,
+              "db": -81.336914836112527,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 25216
+            },
+            {
+              "start": 288784758,
+              "db": -29.134964709295179,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 332032
+            },
+            {
+              "start": 289188552,
+              "db": -94.290950062111293,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 289361362,
+              "db": -91.430167515503371,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            }
+          ]
+        },
+        {
+          "tags": [
+            "A-Edge",
+            "O-Open1"
+          ],
+          "display": "Edge Open1",
+          "group": "Group 1",
+          "refFile": 0,
+          "selStart": 289505094,
+          "selEnd": 299806898,
+          "threshDb": 8.0,
+          "minGapMs": 200.0,
+          "boundaries": [
+            -37.451558188345643,
+            -31.297507778100353,
+            -29.166425943874589,
+            -27.697191233790122,
+            -26.074567358766107
+          ],
+          "stripWarp": "linear",
+          "minPerRegion": 3,
+          "detectHf": null,
+          "boundsMode": "manual",
+          "slices": [
+            {
+              "start": 289531127,
+              "db": -46.297220273951268,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 113728
+            },
+            {
+              "start": 289754423,
+              "db": -41.043185879806849,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 124672
+            },
+            {
+              "start": 289978742,
+              "db": -47.137526687071407,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 114752
+            },
+            {
+              "start": 290159982,
+              "db": -45.262249742552356,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 124992
+            },
+            {
+              "start": 290355439,
+              "db": -41.578844689530243,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 122432
+            },
+            {
+              "start": 290539125,
+              "db": -41.541712523197525,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 113728
+            },
+            {
+              "start": 290718453,
+              "db": -41.698072158485715,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 118080
+            },
+            {
+              "start": 290887607,
+              "db": -39.732818608678244,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 291071532,
+              "db": -40.981566435742096,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 120576
+            },
+            {
+              "start": 291267831,
+              "db": -40.4602632429254,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 128192
+            },
+            {
+              "start": 291452980,
+              "db": -35.170297768013036,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 123584
+            },
+            {
+              "start": 291637104,
+              "db": -33.0138869720952,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 178496
+            },
+            {
+              "start": 291871987,
+              "db": -31.102414489307293,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 177088
+            },
+            {
+              "start": 292119212,
+              "db": -32.630219275759494,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 171328
+            },
+            {
+              "start": 292360822,
+              "db": -30.970303399228154,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 176768
+            },
+            {
+              "start": 292599412,
+              "db": -31.870158152626196,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 209536
+            },
+            {
+              "start": 292875127,
+              "db": -33.114258992627427,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 155968
+            },
+            {
+              "start": 293096053,
+              "db": -29.883844309037819,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 205056
+            },
+            {
+              "start": 293378731,
+              "db": -30.712511935833305,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 200576
+            },
+            {
+              "start": 293631863,
+              "db": -28.942251723331974,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 149952
+            },
+            {
+              "start": 293836636,
+              "db": -28.193839525932425,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 182016
+            },
+            {
+              "start": 294075826,
+              "db": -29.066296731280907,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 164800
+            },
+            {
+              "start": 294294760,
+              "db": -28.040168790102893,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 164736
+            },
+            {
+              "start": 294506997,
+              "db": -28.4832238013569,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 167872
+            },
+            {
+              "start": 294743783,
+              "db": -27.148746742782937,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 163776
+            },
+            {
+              "start": 294968250,
+              "db": -28.119252601110315,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 169344
+            },
+            {
+              "start": 295200247,
+              "db": -32.106268249771894,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 163584
+            },
+            {
+              "start": 295433270,
+              "db": -28.714406848603797,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 166528
+            },
+            {
+              "start": 295682795,
+              "db": -29.327990126217564,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 168640
+            },
+            {
+              "start": 295916706,
+              "db": -28.397731456533521,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 180096
+            },
+            {
+              "start": 296135159,
+              "db": -29.778430151005004,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 164672
+            },
+            {
+              "start": 296340407,
+              "db": -29.373595903202304,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 175872
+            },
+            {
+              "start": 296560098,
+              "db": -30.524753238113234,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 152448
+            },
+            {
+              "start": 296759478,
+              "db": -23.945890884324132,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 171008
+            },
+            {
+              "start": 296955124,
+              "db": -25.962934270131257,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 179008
+            },
+            {
+              "start": 297170217,
+              "db": -27.354213677477347,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 169664
+            },
+            {
+              "start": 297383031,
+              "db": -26.805711148206694,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 210752
+            },
+            {
+              "start": 297621231,
+              "db": -27.021787369473856,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 186304
+            },
+            {
+              "start": 297829493,
+              "db": -25.804138182641303,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 174656
+            },
+            {
+              "start": 298045298,
+              "db": -25.756192068131366,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 210752
+            },
+            {
+              "start": 298300443,
+              "db": -26.804883145190939,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 178048
+            },
+            {
+              "start": 298525080,
+              "db": -26.226497645398705,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 170944
+            },
+            {
+              "start": 298728061,
+              "db": -24.272902682347727,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 165184
+            },
+            {
+              "start": 298919927,
+              "db": -23.73341738582338,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 191936
+            },
+            {
+              "start": 299139087,
+              "db": -23.588305842677357,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 145728
+            },
+            {
+              "start": 299345807,
+              "db": -24.66379931350928,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 179648
+            },
+            {
+              "start": 299547443,
+              "db": -23.913384020891236,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 205696
+            }
+          ]
+        },
+        {
+          "tags": [
+            "O-Open1"
+          ],
+          "display": "Open1",
+          "group": "Group 1",
+          "refFile": 0,
+          "selStart": 299833111,
+          "selEnd": 309930819,
+          "threshDb": 8.0,
+          "minGapMs": 200.0,
+          "boundaries": [
+            -47.67608540463776,
+            -42.825111929101794,
+            -38.163893966242128,
+            -33.605751898301151,
+            -30.284934179557947
+          ],
+          "stripWarp": "linear",
+          "minPerRegion": 5,
+          "detectHf": true,
+          "boundsMode": "manual",
+          "slices": [
+            {
+              "start": 299859208,
+              "db": -52.157981578499779,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 152512
+            },
+            {
+              "start": 300083335,
+              "db": -50.385315585018375,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 190656
+            },
+            {
+              "start": 300359108,
+              "db": -47.031955057919234,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 107520
+            },
+            {
+              "start": 300578632,
+              "db": -49.693390861487941,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 126976
+            },
+            {
+              "start": 300793732,
+              "db": -47.17502704393327,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 140544
+            },
+            {
+              "start": 300987251,
+              "db": -45.893939813130999,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 114624
+            },
+            {
+              "start": 301182215,
+              "db": -44.774535972160272,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 142336
+            },
+            {
+              "start": 301360055,
+              "db": -44.098334963050789,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 139584
+            },
+            {
+              "start": 301532104,
+              "db": -41.551888895152793,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 136320
+            },
+            {
+              "start": 301701057,
+              "db": -40.568081827734545,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 107072
+            },
+            {
+              "start": 301868479,
+              "db": -40.941013553326869,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 127552
+            },
+            {
+              "start": 302047872,
+              "db": -39.765898536803881,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 118912
+            },
+            {
+              "start": 302212741,
+              "db": -39.370709973973391,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 124352
+            },
+            {
+              "start": 302367043,
+              "db": -39.760890115413623,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 126336
+            },
+            {
+              "start": 302545414,
+              "db": -39.851565493338214,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 134400
+            },
+            {
+              "start": 302721349,
+              "db": -39.738339377226652,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 123840
+            },
+            {
+              "start": 302880968,
+              "db": -39.155026757268089,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 123584
+            },
+            {
+              "start": 303042632,
+              "db": -39.259172686960262,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 113664
+            },
+            {
+              "start": 303227904,
+              "db": -34.432341974531752,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 121472
+            },
+            {
+              "start": 303392839,
+              "db": -37.172761175216159,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 85312
+            },
+            {
+              "start": 303563848,
+              "db": -35.02325496243057,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 97024
+            },
+            {
+              "start": 303717433,
+              "db": -34.415148135411961,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 303876547,
+              "db": -35.86043979450946,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 105216
+            },
+            {
+              "start": 304027015,
+              "db": -36.24289911139207,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 94144
+            },
+            {
+              "start": 304168252,
+              "db": -34.871826477179141,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 103424
+            },
+            {
+              "start": 304330848,
+              "db": -34.740184657471019,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 163840
+            },
+            {
+              "start": 304532801,
+              "db": -34.62698058795656,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 150016
+            },
+            {
+              "start": 304715251,
+              "db": -35.491164171428146,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 304860012,
+              "db": -33.403095324896654,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 305080489,
+              "db": -91.963429167754953,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 305136965,
+              "db": -89.983536624679928,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 305359464,
+              "db": -60.953413555403266,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 42880
+            },
+            {
+              "start": 305566200,
+              "db": -34.025175203008466,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 106624
+            },
+            {
+              "start": 305734831,
+              "db": -31.521134455173137,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 120960
+            },
+            {
+              "start": 305911676,
+              "db": -30.594060693875626,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 151936
+            },
+            {
+              "start": 306105114,
+              "db": -32.362355609207128,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 152000
+            },
+            {
+              "start": 306275119,
+              "db": -32.711586262099487,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 120192
+            },
+            {
+              "start": 306439093,
+              "db": -32.859833331233105,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 113472
+            },
+            {
+              "start": 306585066,
+              "db": -31.89475938499729,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 117120
+            },
+            {
+              "start": 306736832,
+              "db": -33.429562926435253,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 104640
+            },
+            {
+              "start": 306873055,
+              "db": -27.439157438276958,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 115776
+            },
+            {
+              "start": 307025211,
+              "db": -29.843927204122458,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 307221521,
+              "db": -30.653037344753194,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 151872
+            },
+            {
+              "start": 307400126,
+              "db": -29.848754287031394,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 307557911,
+              "db": -30.403810297092004,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 149888
+            },
+            {
+              "start": 307726080,
+              "db": -31.187082662155206,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 149568
+            },
+            {
+              "start": 307907732,
+              "db": -29.936666555438705,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 163072
+            },
+            {
+              "start": 308108534,
+              "db": -29.512210905396262,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 155520
+            },
+            {
+              "start": 308308007,
+              "db": -31.384456438772716,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 121600
+            },
+            {
+              "start": 308469633,
+              "db": -29.459410385209061,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 199296
+            },
+            {
+              "start": 308708955,
+              "db": -32.410226300261463,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 157376
+            },
+            {
+              "start": 308908161,
+              "db": -29.672537325533579,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 181184
+            },
+            {
+              "start": 309125552,
+              "db": -30.096572755988255,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 158592
+            },
+            {
+              "start": 309318304,
+              "db": -29.984003290660041,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 215936
+            },
+            {
+              "start": 309561790,
+              "db": -28.878547564897378,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 309866373,
+              "db": -75.662748678463913,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 41344
+            }
+          ]
+        },
+        {
+          "tags": [
+            "O-Open2"
+          ],
+          "display": "Open2",
+          "group": "Group 1",
+          "refFile": 0,
+          "selStart": 320284519,
+          "selEnd": 332742535,
+          "threshDb": 8.0,
+          "minGapMs": 200.0,
+          "boundaries": [
+            -39.896615329363073,
+            -32.489617661082249,
+            -28.839260080723605
+          ],
+          "stripWarp": "linear",
+          "minPerRegion": 5,
+          "detectHf": true,
+          "boundsMode": "manual",
+          "slices": [
+            {
+              "start": 321084248,
+              "db": -49.102824390904686,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 260672
+            },
+            {
+              "start": 321438078,
+              "db": -51.77254779626557,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 321814990,
+              "db": -48.387448714978582,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 322209916,
+              "db": -46.330496264544266,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 281408
+            },
+            {
+              "start": 322573146,
+              "db": -41.995721049298169,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 322899737,
+              "db": -42.031029429826759,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 323228825,
+              "db": -44.26335068149848,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 224256
+            },
+            {
+              "start": 323497304,
+              "db": -45.734457239961486,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 323798480,
+              "db": -43.28285289906988,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 246400
+            },
+            {
+              "start": 324091607,
+              "db": -41.227803685898188,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 324347928,
+              "db": -38.56542697282795,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 324605636,
+              "db": -35.933050075969049,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 212224
+            },
+            {
+              "start": 324898136,
+              "db": -36.3525342280806,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 325160530,
+              "db": -34.767386229918273,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 239040
+            },
+            {
+              "start": 325429523,
+              "db": -33.783366270319732,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 325707649,
+              "db": -33.573782471440758,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 220480
+            },
+            {
+              "start": 325972907,
+              "db": -33.701996181686766,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 326264196,
+              "db": -33.949179470494251,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 326529162,
+              "db": -34.291986101545511,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 226688
+            },
+            {
+              "start": 326811474,
+              "db": -30.667683064165303,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 209088
+            },
+            {
+              "start": 327055619,
+              "db": -29.602051131101202,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 327337352,
+              "db": -28.988741018094586,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 260928
+            },
+            {
+              "start": 327656685,
+              "db": -29.839121537738265,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 211648
+            },
+            {
+              "start": 327932546,
+              "db": -28.091102012007884,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 328224853,
+              "db": -30.698575312727165,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 241152
+            },
+            {
+              "start": 328509800,
+              "db": -28.142257341277464,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 218880
+            },
+            {
+              "start": 328791183,
+              "db": -30.793726864670894,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 211072
+            },
+            {
+              "start": 329072902,
+              "db": -26.745528307048904,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 232896
+            },
+            {
+              "start": 329350167,
+              "db": -28.691761519539387,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 273216
+            },
+            {
+              "start": 329670090,
+              "db": -29.225399047712486,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 222592
+            },
+            {
+              "start": 329940859,
+              "db": -28.61105599117057,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 330215769,
+              "db": -31.405452850723737,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 252224
+            },
+            {
+              "start": 330503803,
+              "db": -29.971372705955005,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 217408
+            },
+            {
+              "start": 330762350,
+              "db": -29.111854302058259,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 237504
+            },
+            {
+              "start": 331039698,
+              "db": -28.711443450037827,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 331382178,
+              "db": -77.493600163084807,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 331541513,
+              "db": -79.948638436470361,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 331580511,
+              "db": -77.753072375485829,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 331641190,
+              "db": -74.249930816506236,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 30912
+            },
+            {
+              "start": 331687637,
+              "db": -69.850979718695484,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 331746649,
+              "db": -78.437762286687544,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 62208
+            },
+            {
+              "start": 331852057,
+              "db": -28.506858397160087,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 332282779,
+              "db": -72.906464918341712,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            }
+          ]
+        },
+        {
+          "tags": [
+            "A-Edge",
+            "O-Open2"
+          ],
+          "display": "Edge Open2",
+          "group": "Group 1",
+          "refFile": 0,
+          "selStart": 310483631,
+          "selEnd": 321012438,
+          "threshDb": 8.0,
+          "minGapMs": 200.0,
+          "boundaries": [
+            -29.170549197224808,
+            -20.724208171747978
+          ],
+          "stripWarp": "linear",
+          "minPerRegion": 5,
+          "detectHf": true,
+          "boundsMode": "manual",
+          "slices": [
+            {
+              "start": 310535262,
+              "db": -39.815135472797763,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 246400
+            },
+            {
+              "start": 310836635,
+              "db": -35.817463374591071,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 249024
+            },
+            {
+              "start": 311124438,
+              "db": -37.832719326413539,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 311370947,
+              "db": -36.762623395821301,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 311603544,
+              "db": -34.104790442457926,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 311845911,
+              "db": -33.79033321766476,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 312088416,
+              "db": -34.968453701589922,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 312317716,
+              "db": -31.922903111186084,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 182400
+            },
+            {
+              "start": 312535255,
+              "db": -33.803829221500472,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 312836366,
+              "db": -33.700446138913421,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 255616
+            },
+            {
+              "start": 313132190,
+              "db": -34.941943813975499,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 313396768,
+              "db": -24.440540518573421,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 328960
+            },
+            {
+              "start": 313827609,
+              "db": -26.418195283263529,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 314396304,
+              "db": -25.785489566989277,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 314971680,
+              "db": -24.493714992154235,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 425408
+            },
+            {
+              "start": 315496788,
+              "db": -21.669033356274944,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 316148116,
+              "db": -22.434966604775298,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 367168
+            },
+            {
+              "start": 316645088,
+              "db": -22.611915917800545,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 360000
+            },
+            {
+              "start": 317122325,
+              "db": -21.337542541438488,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 430848
+            },
+            {
+              "start": 317678926,
+              "db": -18.793953294451875,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 363712
+            },
+            {
+              "start": 318155106,
+              "db": -18.787519493943368,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 407232
+            },
+            {
+              "start": 318690132,
+              "db": -18.235873660820218,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 433600
+            },
+            {
+              "start": 319217761,
+              "db": -18.893550303203956,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 379840
+            },
+            {
+              "start": 319706852,
+              "db": -17.203391418559299,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 429632
+            },
+            {
+              "start": 320269124,
+              "db": -18.295398173112073,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 494336
+            },
+            {
+              "start": 320834488,
+              "db": -86.123000726130442,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 320846296,
+              "db": -87.528612405973519,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 39872
+            }
+          ]
+        },
+        {
+          "tags": [
+            "A-Edge",
+            "O-Open3"
+          ],
+          "display": "Edge Open3",
+          "group": "Group 1",
+          "refFile": 0,
+          "selStart": 362607467,
+          "selEnd": 402204106,
+          "threshDb": 8.0,
+          "minGapMs": 200.0,
+          "boundaries": [
+            -33.483410440156945,
+            -29.228420203725413,
+            -26.675426739355,
+            -23.271436582675278,
+            -19.576553844800209
+          ],
+          "stripWarp": "linear",
+          "minPerRegion": 7,
+          "detectHf": true,
+          "boundsMode": "manual",
+          "slices": [
+            {
+              "start": 362658716,
+              "db": -53.13535197539295,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 169472
+            },
+            {
+              "start": 362936863,
+              "db": -80.279306181055361,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 363198975,
+              "db": -57.54722270796465,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 363764763,
+              "db": -70.850028365884455,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 561024
+            },
+            {
+              "start": 364387123,
+              "db": -48.460489660390316,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 365032822,
+              "db": -51.050575030964467,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 623936
+            },
+            {
+              "start": 365850076,
+              "db": -45.486056510021761,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 601280
+            },
+            {
+              "start": 366543706,
+              "db": -47.059731347844817,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 506176
+            },
+            {
+              "start": 367119642,
+              "db": -48.553333370024333,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 475968
+            },
+            {
+              "start": 367675798,
+              "db": -45.225863653774041,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 368226734,
+              "db": -50.21610297418804,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 368777492,
+              "db": -38.661918567642232,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 487296
+            },
+            {
+              "start": 369333036,
+              "db": -35.75303432062411,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 370044904,
+              "db": -30.198372414998889,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 680256
+            },
+            {
+              "start": 370811292,
+              "db": -33.271894898424115,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 371595484,
+              "db": -30.700760292577456,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 372366411,
+              "db": -29.679536231993147,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 486080
+            },
+            {
+              "start": 373076861,
+              "db": -33.949663063602507,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 373749762,
+              "db": -31.987877789744381,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 374466237,
+              "db": -33.076928812844997,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 375035766,
+              "db": -79.903004882299157,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 41664
+            },
+            {
+              "start": 375144092,
+              "db": -28.587646400968811,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 375860232,
+              "db": -29.134124608417594,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 376599803,
+              "db": -29.546411700008782,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 583360
+            },
+            {
+              "start": 377333214,
+              "db": -27.563838937062314,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 378021782,
+              "db": -29.532564444849754,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 378742883,
+              "db": -26.473381260870283,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 379465494,
+              "db": -29.44570900261094,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 380132550,
+              "db": -28.055342944129322,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 534336
+            },
+            {
+              "start": 380733786,
+              "db": -25.366039466234636,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 631296
+            },
+            {
+              "start": 381461051,
+              "db": -27.735171304509247,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 619456
+            },
+            {
+              "start": 382154588,
+              "db": -25.917122931110327,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 642304
+            },
+            {
+              "start": 382894553,
+              "db": -27.714663993372191,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 510016
+            },
+            {
+              "start": 383517081,
+              "db": -80.509512303879532,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 383648156,
+              "db": -25.898979811682295,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 661952
+            },
+            {
+              "start": 384385691,
+              "db": -26.135384592057598,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 665088
+            },
+            {
+              "start": 385180820,
+              "db": -29.72187445546037,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 385870324,
+              "db": -24.194837809884945,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 671424
+            },
+            {
+              "start": 386651100,
+              "db": -24.193584689631461,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 387333149,
+              "db": -77.85195183973444,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 387518433,
+              "db": -24.206283739783462,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 388297179,
+              "db": -22.621659895474295,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 389065991,
+              "db": -82.666088888372101,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 68928
+            },
+            {
+              "start": 389183067,
+              "db": -22.017171781060352,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 389948041,
+              "db": -22.724775019718866,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 531712
+            },
+            {
+              "start": 390576284,
+              "db": -22.145187141868632,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 391238844,
+              "db": -20.872796574770067,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 584896
+            },
+            {
+              "start": 391935707,
+              "db": -22.535154853165338,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 392573301,
+              "db": -86.570824406189331,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 392657296,
+              "db": -18.280311114830347,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 393429852,
+              "db": -18.095874089939695,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 638400
+            },
+            {
+              "start": 394171537,
+              "db": -17.401015530922454,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 565952
+            },
+            {
+              "start": 394873195,
+              "db": -16.361474813502518,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 395808205,
+              "db": -17.618678013184908,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 396601566,
+              "db": -17.664661183454342,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 397400788,
+              "db": -16.318829945203731,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 682816
+            },
+            {
+              "start": 398222803,
+              "db": -16.13660320523817,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 399067023,
+              "db": -15.099456269641756,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 679488
+            },
+            {
+              "start": 399886320,
+              "db": -14.92333182456292,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 617152
+            },
+            {
+              "start": 400650780,
+              "db": -17.439293055310394,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 616512
+            },
+            {
+              "start": 401401155,
+              "db": -15.759590025910569,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 606976
+            }
+          ]
+        },
+        {
+          "tags": [
+            "O-Open3"
+          ],
+          "display": "Open3",
+          "group": "Group 1",
+          "refFile": 0,
+          "selStart": 403182583,
+          "selEnd": 437576649,
+          "threshDb": 8.0,
+          "minGapMs": 200.0,
+          "boundaries": [
+            -45.902636395435678,
+            -40.642580770805985,
+            -36.077513848801559,
+            -32.27079230848021,
+            -27.971327425902011,
+            -25.812865824229863
+          ],
+          "stripWarp": "linear",
+          "minPerRegion": 3,
+          "detectHf": true,
+          "boundsMode": "manual",
+          "slices": [
+            {
+              "start": 403276630,
+              "db": -57.979149503667344,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 403715431,
+              "db": -69.571624960602861,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 256128
+            },
+            {
+              "start": 404063080,
+              "db": -56.642018708739705,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 389696
+            },
+            {
+              "start": 404526819,
+              "db": -53.471028704180938,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 417664
+            },
+            {
+              "start": 405078058,
+              "db": -53.147776442371402,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 405524618,
+              "db": -53.616578163498914,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 335232
+            },
+            {
+              "start": 405952288,
+              "db": -46.751329054168629,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 406385832,
+              "db": -48.325579132060113,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 406980152,
+              "db": -46.860257498559584,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 398016
+            },
+            {
+              "start": 407524176,
+              "db": -43.973992553690557,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 408184167,
+              "db": -43.829913168171245,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 408844674,
+              "db": -45.05394373670272,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 409485335,
+              "db": -43.807587700940481,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 408704
+            },
+            {
+              "start": 409917450,
+              "db": -77.032071069208783,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 410249512,
+              "db": -41.756460948568559,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 682496
+            },
+            {
+              "start": 411044074,
+              "db": -38.920407656802141,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 582080
+            },
+            {
+              "start": 411733116,
+              "db": -39.528700593043411,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 433856
+            },
+            {
+              "start": 412300278,
+              "db": -39.443485601132494,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 413007036,
+              "db": -38.200137247452417,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 413650136,
+              "db": -38.250130445245972,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 414391716,
+              "db": -37.291803459930144,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 415116077,
+              "db": -86.832369176869989,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 415168627,
+              "db": -87.609393220614663,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 415279484,
+              "db": -35.199523319291202,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 415995408,
+              "db": -39.345041517057261,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 516736
+            },
+            {
+              "start": 416588513,
+              "db": -33.389922293896973,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 417289058,
+              "db": -35.818532119492922,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 587904
+            },
+            {
+              "start": 418001268,
+              "db": -35.200594715040225,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 418652004,
+              "db": -34.035115877024282,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 513472
+            },
+            {
+              "start": 419260946,
+              "db": -32.31422006166553,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 419888845,
+              "db": -32.662516976287861,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 420592337,
+              "db": -29.988925850701115,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 421209940,
+              "db": -33.141959458164877,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 506688
+            },
+            {
+              "start": 421845460,
+              "db": -29.378211303256915,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 548864
+            },
+            {
+              "start": 422525593,
+              "db": -29.564732134000828,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 423477157,
+              "db": -25.697144033650687,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 424360229,
+              "db": -29.71103038082444,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 425115417,
+              "db": -28.911381662065395,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 660480
+            },
+            {
+              "start": 425848167,
+              "db": -32.196317880730703,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 498368
+            },
+            {
+              "start": 426457625,
+              "db": -29.194328062171685,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 504448
+            },
+            {
+              "start": 427051906,
+              "db": -28.538589149791299,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 509696
+            },
+            {
+              "start": 427706318,
+              "db": -27.106251873185183,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 423552
+            },
+            {
+              "start": 428211206,
+              "db": -25.430886863757731,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 574656
+            },
+            {
+              "start": 428823586,
+              "db": -88.082507504078364,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 60800
+            },
+            {
+              "start": 428943267,
+              "db": -26.078482230016075,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 625216
+            },
+            {
+              "start": 429704524,
+              "db": -26.325931915595291,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 656128
+            },
+            {
+              "start": 430483128,
+              "db": -26.761377368642222,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 742016
+            },
+            {
+              "start": 431446139,
+              "db": -26.945535812841939,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 351232
+            },
+            {
+              "start": 431951232,
+              "db": -77.312586482482175,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 432019331,
+              "db": -79.528678955812083,
+              "ignored": false,
+              "dead": true,
+              "region": null,
+              "fade": 0.2,
+              "trim": 112832
+            },
+            {
+              "start": 432264547,
+              "db": -26.724158489531639,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 586112
+            },
+            {
+              "start": 432980392,
+              "db": -23.831489810375675,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 485248
+            },
+            {
+              "start": 433603025,
+              "db": -23.7854402292019,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 645120
+            },
+            {
+              "start": 434389185,
+              "db": -27.404065702012726,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            },
+            {
+              "start": 435067049,
+              "db": -25.20330289208249,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 588160
+            },
+            {
+              "start": 435730423,
+              "db": -25.92858761480904,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 477760
+            },
+            {
+              "start": 436318339,
+              "db": -25.692302462905886,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": 562496
+            },
+            {
+              "start": 436981177,
+              "db": -24.025722229848224,
+              "ignored": false,
+              "dead": false,
+              "region": null,
+              "fade": 0.2,
+              "trim": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "defaults": {
+    "mixer": {
+      "Hi_Hat__SM7B": {
+        "gainDb": 0.0,
+        "pan": 0.0,
+        "mute": false,
+        "solo": false
+      }
+    },
+    "disabledMics": {
+      "Crash_1": [
+        "Floor_Tom_1__CADTM2",
+        "Hi_Hat__SM7B",
+        "Kick_In__CADKK",
+        "Rack_Tom_1__CADTM1",
+        "Snare_Bottom__CADSN",
+        "Snare_Top__SM57"
+      ],
+      "Crash_2": [
+        "Floor_Tom_1__CADTM2",
+        "Hi_Hat__SM7B",
+        "Kick_In__CADKK",
+        "Rack_Tom_1__CADTM1",
+        "Snare_Bottom__CADSN",
+        "Snare_Top__SM57"
+      ],
+      "Crash_3": [
+        "Floor_Tom_1__CADTM2",
+        "Hi_Hat__SM7B",
+        "Kick_In__CADKK",
+        "Rack_Tom_1__CADTM1",
+        "Snare_Bottom__CADSN",
+        "Snare_Top__SM57"
+      ],
+      "Floor_Tom_1": [
+        "Hi_Hat__SM7B",
+        "Kick_In__CADKK",
+        "Rack_Tom_1__CADTM1",
+        "Snare_Bottom__CADSN",
+        "Snare_Top__SM57"
+      ],
+      "Hi_Hat": [
+        "Floor_Tom_1__CADTM2",
+        "Kick_In__CADKK",
+        "Rack_Tom_1__CADTM1",
+        "Snare_Bottom__CADSN",
+        "Snare_Top__SM57"
+      ],
+      "Kick": [
+        "Floor_Tom_1__CADTM2",
+        "Hi_Hat__SM7B",
+        "Rack_Tom_1__CADTM1"
+      ],
+      "Rack_Tom_1": [
+        "Floor_Tom_1__CADTM2",
+        "Hi_Hat__SM7B",
+        "Kick_In__CADKK",
+        "Snare_Bottom__CADSN",
+        "Snare_Top__SM57"
+      ],
+      "Ride_1": [
+        "Floor_Tom_1__CADTM2",
+        "Hi_Hat__SM7B",
+        "Kick_In__CADKK",
+        "Rack_Tom_1__CADTM1",
+        "Snare_Bottom__CADSN",
+        "Snare_Top__SM57"
+      ],
+      "Snare": [
+        "Floor_Tom_1__CADTM2",
+        "Hi_Hat__SM7B",
+        "Kick_In__CADKK",
+        "Rack_Tom_1__CADTM1"
+      ]
+    },
+    "hatCurve": {
+      "Hi_Hat": "Tight:20;Closed:35;Open1:60;Open2:75;Open3:99"
+    }
+  },
+  "exportProfiles": []
+}
